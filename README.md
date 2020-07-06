@@ -1,0 +1,2 @@
+# fastapi_mock_api
+FastAPIで固定値を返すmockAPI
